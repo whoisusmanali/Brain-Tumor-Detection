@@ -91,8 +91,8 @@ This project demonstrates the detection of brain tumors using Convolutional Neur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/brain-tumor-detection.git
-   cd brain-tumor-detection
+   git clone https://github.com/whoisusmanali/Brain-Tumor-Detection.git
+   cd rain-Tumor-Detection
    ```
 
 2. Install dependencies:
